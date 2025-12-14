@@ -2,6 +2,12 @@
 
 Gamemode SA-MP dengan sistem UCP (User Control Panel) terintegrasi dengan Discord Bot untuk pendaftaran akun.
 
+## IMPORTANT 
+It seems like the file pawno needs is missing, look for it yourself in the other gamemode source stack
+```
+pawno/include
+```
+
 ## 📋 Daftar Isi
 
 - [Fitur](#-fitur)
@@ -49,7 +55,7 @@ Gamemode SA-MP dengan sistem UCP (User Control Panel) terintegrasi dengan Discor
 
 ### 1. Clone Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/XeyyzuV2/gamemode
 cd GAMEMODE-SAMP
 ```
 
@@ -239,3 +245,4 @@ Lihat file [LICENSE](LICENSE) untuk detail.
 ---
 
 **Dibuat dengan ❤️ oleh XeyyzuV2**
+
